@@ -1,4 +1,4 @@
-({
+window.cb({
   "posts": [
     {
       "id": 1,
