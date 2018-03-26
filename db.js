@@ -1,4 +1,4 @@
-return ooo({
+ooo({
   "posts": [
     {
       "id": 1,
