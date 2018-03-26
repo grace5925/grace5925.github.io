@@ -1,4 +1,4 @@
-window.cb({
+return {
   "posts": [
     {
       "id": 1,
@@ -27,4 +27,4 @@ window.cb({
   "profile": {
     "name": "typicode"
   }
-});
+}
