@@ -1,4 +1,4 @@
-{
+return ooo({
   "posts": [
     {
       "id": 1,
@@ -27,4 +27,4 @@
   "profile": {
     "name": "typicode"
   }
-}
+});
