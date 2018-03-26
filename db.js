@@ -1,4 +1,4 @@
-return {
+{
   "posts": [
     {
       "id": 1,
