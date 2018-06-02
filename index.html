@@ -21,6 +21,16 @@
 <body>
     <h1>Welcome! YIFU</h1>
 
+    <script>
+        window.onload = function(){
+        	document.body.addEventListener('contextmenu', e => {
+        		if(e.target && e.target.nodeName === 'CANVAS' && e.target.id === 'c_n4'){
+        			console.dir(e.target);
+        			e.preventDefault();
+                }
+            }, false);
+        }
+    </script>
     <script src="./js/canvas-nest.min.js"></script>
 </body>
 </html>
